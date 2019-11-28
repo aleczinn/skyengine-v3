@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/jars/lwjgl-glfw.jar" sourcepath="C:/Users/alec_/.m2/repository/org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/jars/lwjgl-opengl.jar" sourcepath="C:/Users/alec_/.m2/repository/org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/jars/lwjgl-stb.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/jars/lwjgl.jar" sourcepath="C:/Users/alec_/.m2/repository/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/natives/lwjgl-glfw-natives-linux.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/natives/lwjgl-glfw-natives-macos.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/natives/lwjgl-glfw-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/natives/lwjgl-natives-linux.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/natives/lwjgl-natives-macos.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/natives/lwjgl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/natives/lwjgl-opengl-natives-linux.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/natives/lwjgl-opengl-natives-macos.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/natives/lwjgl-opengl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/natives/lwjgl-stb-natives-linux.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/natives/lwjgl-stb-natives-macos.jar"/>
+	<classpathentry kind="lib" path="libaries/lwjgl/natives/lwjgl-stb-natives-windows.jar"/>
+	<classpathentry kind="lib" path="libaries/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="libaries/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="libaries/hardware reading/jna-5.5.0.jar"/>
+	<classpathentry kind="lib" path="libaries/hardware reading/jna-platform-5.5.0.jar"/>
+	<classpathentry kind="lib" path="libaries/hardware reading/oshi-core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="libaries/hardware reading/slf4j-api-1.7.9.jar"/>
+	<classpathentry kind="lib" path="libaries/hardware reading/slf4j-simple-1.7.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

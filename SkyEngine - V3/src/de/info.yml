@@ -1,0 +1,3 @@
+Polygon Collision:
+    - Rechteck um Polygon ziehen und schauen ob die sich überhaupt berühren. 
+      Wenn nicht, dann sind sie eh zu weit weg -> spart leistung da collision abfrage nicht ausgeführt wird.
